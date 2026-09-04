@@ -15,3 +15,4 @@ Para este ejercicio se quiere calcular, en el menor tiempo posible, y en una sol
 3. Ajuste la implementación para que cada 5 segundos los hilos se detengan e impriman el número de digitos que han procesado y una vez se presione la tecla enter que los hilos continúen su proceso.
 
 
+a
